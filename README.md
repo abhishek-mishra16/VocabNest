@@ -1,4 +1,4 @@
-# 🌊 VocabNest 2.0 — Ocean / Calm
+# 🌊 VocabNest — Ocean / Calm
 
 **Learn new words. Build confidence. Make English a daily habit.**
 
