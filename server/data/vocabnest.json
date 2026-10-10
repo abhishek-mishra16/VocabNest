@@ -1,0 +1,105 @@
+{
+  "nextId": 11,
+  "words": [
+    {
+      "id": 1,
+      "word": "Serendipity",
+      "meaning": "The occurrence of a happy or useful event by chance.",
+      "example": "Finding that little bookshop was pure serendipity.",
+      "part_of_speech": "Noun",
+      "category": "Everyday",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.373Z"
+    },
+    {
+      "id": 2,
+      "word": "Resilient",
+      "meaning": "Able to recover quickly after difficulty.",
+      "example": "She stayed resilient through every setback.",
+      "part_of_speech": "Adjective",
+      "category": "Personal growth",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 3,
+      "word": "Eloquent",
+      "meaning": "Fluent or persuasive in speaking or writing.",
+      "example": "His eloquent speech moved the entire audience.",
+      "part_of_speech": "Adjective",
+      "category": "Communication",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 4,
+      "word": "Pragmatic",
+      "meaning": "Dealing with things sensibly and realistically.",
+      "example": "We need a pragmatic plan that works within our budget.",
+      "part_of_speech": "Adjective",
+      "category": "Work",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 5,
+      "word": "Ephemeral",
+      "meaning": "Lasting for a very short time.",
+      "example": "The beauty of a sunset is ephemeral.",
+      "part_of_speech": "Adjective",
+      "category": "Literature",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 6,
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail.",
+      "example": "She is meticulous when reviewing her work.",
+      "part_of_speech": "Adjective",
+      "category": "Work",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 7,
+      "word": "Ubiquitous",
+      "meaning": "Present, appearing, or found everywhere.",
+      "example": "Smartphones have become ubiquitous in modern life.",
+      "part_of_speech": "Adjective",
+      "category": "Everyday",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 8,
+      "word": "Empathy",
+      "meaning": "The ability to understand and share another person’s feelings.",
+      "example": "Empathy helps us listen without judging.",
+      "part_of_speech": "Noun",
+      "category": "Personal growth",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 9,
+      "word": "Concise",
+      "meaning": "Giving a lot of information clearly in few words.",
+      "example": "Keep your project summary concise and focused.",
+      "part_of_speech": "Adjective",
+      "category": "Communication",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    },
+    {
+      "id": 10,
+      "word": "Tenacious",
+      "meaning": "Persistent and determined; not giving up easily.",
+      "example": "Her tenacious attitude helped her finish the marathon.",
+      "part_of_speech": "Adjective",
+      "category": "Personal growth",
+      "is_favorite": false,
+      "created_at": "2026-10-10T14:19:08.374Z"
+    }
+  ]
+}
