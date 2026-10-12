@@ -298,3 +298,4 @@ This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) fil
 VocabNest aims to make vocabulary learning simple, engaging, and consistent through focused practice and an inviting user experience.
 
 **Learn a word today. Grow your vocabulary every day.**
+
