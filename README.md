@@ -299,3 +299,4 @@ VocabNest aims to make vocabulary learning simple, engaging, and consistent thro
 
 **Learn a word today. Grow your vocabulary every day.**
 
+
